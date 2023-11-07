@@ -1,0 +1,5 @@
+.aider*
+*.lock
+*.content
+*.json
+public/
