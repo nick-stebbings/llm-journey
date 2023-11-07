@@ -29,8 +29,7 @@ All the above content was created with an LLM, and then tweaked a little. The pr
 ```
 Edit project-summary.md so that it gives a summary of the project. Act as a 
 world class copyrighter. Use a playful tone. Leave a gap for examples of some 
-of the projects to be completed, but start the list with these: "create a simp
-le game that allows you to tip cryptocurrency", "create a nostr relay".
+of the projects to be completed, but start the list with these: "create a simple game that allows you to tip cryptocurrency", "create a nostr relay".
 ```
 
 #### Photo by <a href="https://unsplash.com/@steve_j?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Steve Johnson</a> on <a href="https://unsplash.com/photos/a-computer-circuit-board-with-a-brain-on-it-_0iV9LmPDn0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
