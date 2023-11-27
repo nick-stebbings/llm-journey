@@ -4,6 +4,7 @@ title = '50 LLM Projects'
 theme = "ananke"
 
 [params]
+  show_reading_time = "true"
   body_classes = "georgia"
   text_color = ""
   author = ""
