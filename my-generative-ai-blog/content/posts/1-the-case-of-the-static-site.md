@@ -51,11 +51,16 @@ As the first light of dawn began to seep into the digital horizon, Hugo set to w
 At the close of each page, a transcript of my back-and-forths with Aida would sit, a testament to our partnership in parsing the perplexing. It was a dialogue of discovery, each entry a step deeper into the heart of the enigma.
 
 ```markdown
-ME: Aida, talk to me about LLMs.
-AIDER: Happy to, Sam. Large Language Models are the talk of the tech town. Here's the scoop...
-
-ME: Aida, give me the rundown on Hugo.
-AIDER: Hugo's your ticket to a top-notch site. Let's get started, and I'll show you the ropes...
+Act as a world class copy-writer and web designer. I want to adapt my static site so 
+that it is more of an interesting user experience. The site is made to document my expe
+rience using LLM and AI coding tools, but the explanation so far is very dry. Write som
+e copy for the front page which is in the style of a sarcastic detective in a noir-ish 
+novel. Create some premise as to why the protaganist might need to use LLMs, a quest fo
+r problem solving of some kind. The format should be like the beginning of a novel. The
+ character can have a name and some personal details that are sewn in to the narrative.
+ The front page should lead on to the first project (which can have its own written int
+roduction which introduces the project - the first one being this static website). The 
+copy can live in the content/_index.md page. 
 ```
 
 This log was my paper trail, a breadcrumb path through the digital woods of Syntax, and a reminder that the journey was just as important as the destination.
