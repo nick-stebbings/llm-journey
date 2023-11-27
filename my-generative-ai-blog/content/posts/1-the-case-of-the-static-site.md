@@ -1,6 +1,6 @@
 ---
 title: "(cont...) Chapter 1: The Case of the Static Site"
-date: 2023-11-09T15:44:44+13:00
+date: 2023-11-19T15:44:44+13:00
 draft: false
 featured_image: '/images/craig-whitehead-lbekri_riMg-unsplash.jpg'
 ---
@@ -22,7 +22,7 @@ The head of the department was a man of few words and high expectations. Our las
 
 ### A Clerk's Advice: The Introduction to Hugo
 
-It was during a caffeine-fueled debrief with ChatGPT, the precinct's most sage clerk, that I first heard of Hugo. "Sam, if you want a website that's slicker than a greased byte, Hugo's your guy," he quipped, passing me a steaming cup of joe. I took a sip, letting the rich aroma of the coffee mingle with the promise of new leads.
+It was during a [caffeine-fueled debrief](https://chat.openai.com/share/d1453269-2337-4647-95dc-86c1ffb96261) with ChatGPT, the precinct's most sage clerk, that I first heard of [Hugo](https://gohugo.io/). "Sam, if you want a website that's slicker than a greased byte, Hugo's your guy," he quipped, passing me a steaming cup of joe. I took a sip, letting the rich aroma of the coffee mingle with the promise of new leads.
 
 ChatGPT's eyes twinkled behind the steam. "Hugo's a whiz with static sites. He'll have you up and running faster than you can say 'JavaScript.'"
 
@@ -52,7 +52,7 @@ At the close of each page, a transcript of my back-and-forths with Aida would si
 
 =======
 
-### The Initial Prompt: The Spark of Creation
+### The Initial Story Prompt: The Spark of Creation
 
 For now, this page holds only the main prompt — the one that started it all. In time, the full chat history may unfold, but the clock ticks, and there's no time to dawdle. The journey began with a single step, a single question that set the gears in motion.
 
@@ -70,3 +70,7 @@ copy can live in the content/_index.md page.
 ```
 
 This log was my paper trail, a breadcrumb path through the digital woods of Syntax, and a reminder that the journey was just as important as the destination.
+
+
+Photo by [Craig Whitehead](https://unsplash.com/@sixstreetunder?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/silhouette-photo-of-a-man-with-hat-standing-near-concrete-building-at-daytime-lbekri_riMg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+  

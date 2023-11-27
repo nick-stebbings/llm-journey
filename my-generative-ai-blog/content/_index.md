@@ -19,3 +19,5 @@ It was a setup so simple, it was almost criminal. Static, they said. No backend 
 
 Stay tuned for the full story, where I'll spill the beans on how this static site came to be—and how you, too, can craft a digital den of your own.
 
+Photo by [the blowup](https://unsplash.com/@theblowup) on [Unsplash](https://unsplash.com/photos/black-wooden-door-with-white-wall-Zl4QuOtWRec?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+  
