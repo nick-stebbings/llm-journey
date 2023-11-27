@@ -1,7 +1,7 @@
 ---
-title: "The Chronicles of Code: A Detective's Tale"
+title: "The Code Conundrum: Chronicles of an LLM Detective"
 
-description: "Dive into the shadowy corners of artificial intelligence and coding, where every algorithm holds a secret and every line of code whispers lies and truths alike."
+description: "Unraveling the Mysteries of Code in the Realm of Artificial Intelligence, Where Secrets Abound and Every Line Tells a Story"
 cascade:
   featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 ---
