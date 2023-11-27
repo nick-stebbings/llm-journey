@@ -3,7 +3,7 @@ title: "The Code Conundrum: Chronicles of an LLM Detective"
 
 description: "Unraveling the Mysteries of Code in the Realm of Artificial Intelligence, Where Secrets Abound and Every Line Tells a Story"
 cascade:
-  featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+  featured_image: '/images/the-blowup-Zl4QuOtWRec-unsplash.jpg'
 ---
 ## Preface
 It was a night like any other in the city of Syntax, where the glow of monitors cast long shadows and the clack of keyboards echoed through the alleyways. They call me Sam Codegan, private eye in the murky world of programming. I've seen things, kid. Things that would make your CPU overheat and your RAM run for the hills.
@@ -18,3 +18,4 @@ Stick around, kid. The night is young, and the code is always ready to tell its 
 It was a setup so simple, it was almost criminal. Static, they said. No backend to backstab you, no database to double-cross you. Just pure, unadulterated content, served up cold and fast. But as I dug through the layers of layouts and templates, I knew there was more to this case than met the eye.
 
 Stay tuned for the full story, where I'll spill the beans on how this static site came to be—and how you, too, can craft a digital den of your own.
+
