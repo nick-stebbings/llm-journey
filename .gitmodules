@@ -1,3 +1,6 @@
 [submodule "my-generative-ai-blog/themes/ananke"]
 	path = my-generative-ai-blog/themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "llm-journey-2"]
+	path = llm-journey-2
+	url = https://github.com/nick-stebbings/llm-journey-2
